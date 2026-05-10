@@ -1,0 +1,3 @@
+add myfetch and hentaifetch to ~/.local/bin/
+for simply accessing the scripts throughout the system in your current session.
+easy peasy!!!

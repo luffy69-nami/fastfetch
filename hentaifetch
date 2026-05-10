@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+DIR="$HOME/.config/fastfetch/hentai"
+clear
+FILE=$(find "$DIR" -type f | shuf -n 1)
+fastfetch --logo "$FILE"
