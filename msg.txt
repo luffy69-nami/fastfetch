@@ -1,1 +1,0 @@
-you will need kitty and imagemagick for this
